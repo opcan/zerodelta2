@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
+title: zerodelta
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: opcan
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -42,6 +42,8 @@ minima:
   social_links:
     twitter: fastdotai
     github: fastai
+    linkedin: ludekskyva
+    facebook:
 
 # Set this to true to get LaTeX math equation support
 use_math: 
