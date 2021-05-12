@@ -1,1 +1,1 @@
-Sitemap: https://opcan.github.io/zerodelta2/sitemap.xml
+Sitemap: https://0delta.cz/sitemap.xml
