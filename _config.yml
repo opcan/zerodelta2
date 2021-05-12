@@ -40,10 +40,10 @@ url: "https://0delta.cz" # the base hostname & protocol for your site, e.g. http
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    #twitter: fastdotai
+    #github: fastai
     linkedin: ludekskyva
-    facebook:
+    facebook: ludek.skyva
 
 # Set this to true to get LaTeX math equation support
 use_math: 
